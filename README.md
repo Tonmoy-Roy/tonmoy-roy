@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="800" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp">
+<img align="right" alt="Coding" width="500" height="400" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoy-roy&label=Profile%20views&color=0e75b6&style=flat" alt="tonmoy-roy" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
