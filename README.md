@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tonmoy-roy&label=Profile%20views&color=0e75b6&style=flat"
-        alt="tonmoy-roy" /> </p>
 <img align="center" style="margin-left: 30vw;" alt="Coding" width="600" height="400"
     src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp">
 
