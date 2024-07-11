@@ -1,10 +1,6 @@
-<img align="center" style="margin-left: 30vw;" alt="Coding" width="600" height="400"
-    src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.webp">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img
             src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🌱 I’m currently learning **React JS**
 
 - 📫 How to reach me **roytonmoy901@gmail.com**
 
